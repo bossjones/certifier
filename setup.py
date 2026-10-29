@@ -9,7 +9,7 @@ install_requires = [
     "cement==2.4.0",
     "tabulate==0.7.3",
     "pygerduty==0.28",
-    "pyopenssl==0.13.0",
+    "pyopenssl==26.0.0",
     "termcolor==1.1.0",
 ]
 
